@@ -10,7 +10,11 @@ pdf 5,链表数组训练 [链表重实现能力，思考的其实不多，多练
   141   判断链表是否有环
   142   返回链表开始入环的第一个节点
 --------------------------
+pdf 6,堆栈训练
 
+  232.   Implement Queue using Stacks  https://leetcode.com/problems/implement-queue-using-stacks/
+  225    用队列实现堆栈        https://leetcode.com/problems/implement-stack-using-queues/description/
+  20     判断输入括号是否合法   https://leetcode.com/problems/valid-parentheses/description/
 
 
 
