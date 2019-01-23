@@ -1,5 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28839fbf-bee1-45bb-8d02-be7c0abdc0c1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Template/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Template/MyTrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Template/Summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_141_HasCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_142_DetectCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_191_HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_206_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_212_FindWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_22_GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_231_IsPowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_235_LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_238_ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_24_SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_25_ReverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_338_CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_36_IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_51_SolveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_69_MySqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/_98_IsValidBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/Interviewe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/JavaGrammarBase.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/Summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/LinearTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/Summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/base/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/FindInTwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/FindKthToTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/HasSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/ImplementAQueueWithTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/JumpFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/JumpFloorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/MergeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/MergeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/MinNumberInRotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/MirrorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/NumberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/PrintListFromTailToHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/ReConstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/ReOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/RectCover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/ReplaceBlankSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page1/StackGetMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/FindNumsAppearOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/GetLeastNumbers_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/GetUglyNumber_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/InversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/IsBalanced_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/MoreThanHalfNum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page2/TreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/EntryNodeOfLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/FindNumbersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/LastRemaining_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/LeftRotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/ReverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/Sum_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page3/isContinuous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/SwordMeansOffer/page4/ParenthesesEgitimate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/util/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/util/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/util/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/util/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/01-为什么要学习算法与数据结构.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/01-为什么要学习算法与数据结构.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/01-为什么要学习算法与数据结构.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/02-如何有效学习和训练算法和数据结构.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/02-如何有效学习和训练算法和数据结构.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/02-如何有效学习和训练算法和数据结构.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/03-课程总览&amp;算法复杂度.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/03-课程总览&amp;算法复杂度.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/03-课程总览&amp;算法复杂度.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/04-LeetCode介绍+练习方式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/04-LeetCode介绍+练习方式.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/04-LeetCode介绍+练习方式.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/05-数组、链表.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/05-数组、链表.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/05-数组、链表.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/06-堆栈、队列.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/06-堆栈、队列.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/06-堆栈、队列.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/07-优先队列（PriorityQueue）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/07-优先队列（PriorityQueue）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/07-优先队列（PriorityQueue）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/08-哈希表（HashTable）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/08-哈希表（HashTable）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/08-哈希表（HashTable）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/09-树、二叉树、二叉搜索树.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/09-树、二叉树、二叉搜索树.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/09-树、二叉树、二叉搜索树.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/10-二叉树遍历.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/10-二叉树遍历.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/10-二叉树遍历.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/11-分治、递归、回溯.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/11-分治、递归、回溯.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/11-分治、递归、回溯.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/12-贪心算法（Greedy Algorithm)-.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/12-贪心算法（Greedy Algorithm)-.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/12-贪心算法（Greedy Algorithm)-.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/13-深度优先DFS+广度优先BFS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/13-深度优先DFS+广度优先BFS.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/13-深度优先DFS+广度优先BFS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/14-剪枝.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/14-剪枝.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/14-剪枝.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/15-二分查找.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/15-二分查找.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/15-二分查找.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/16-字典树.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/16-字典树.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/16-字典树.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/17-位运算.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/17-位运算.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/17-位运算.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/18-动态规划.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/18-动态规划.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/18-动态规划.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/19-并查集.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/19-并查集.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/19-并查集.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/20-LRU Cache.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/20-LRU Cache.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/20-LRU Cache.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/21-布隆过滤器.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/21-布隆过滤器.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/21-布隆过滤器.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/22-最后一章.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Doc/22-最后一章.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LeetCode/Doc/22-最后一章.pdf" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Sort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/util/Sort.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/LeetCode/_206_ReverseList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -11,10 +169,32 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="563" />
+    <option name="y" value="279" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -25,6 +205,26 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -69,8 +269,119 @@
       <listeners />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28839fbf-bee1-45bb-8d02-be7c0abdc0c1" name="Default" comment="" />
+      <created>1548170623384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548170623384</updated>
+      <workItem from="1548170626972" duration="390000" />
+      <workItem from="1548171075424" duration="461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="851000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26357827" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/_235_LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/_206_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Sort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/_235_LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LeetCode/_206_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/util/Sort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
