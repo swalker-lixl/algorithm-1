@@ -33,3 +33,13 @@ pdf 6,堆栈训练
             四数之和           https://leetcode-cn.com/problems/4sum/
  *  49      Group Anagrams    https://leetcode.com/problems/group-anagrams/description/
             字母异位词分组      https://leetcode-cn.com/problems/group-anagrams/description/
+---------------------------
+ pdf 9,树、二叉树、二叉搜索树 [全部是递归算法]
+    98. Validate Binary Search Tree
+                       https://leetcode.com/problems/validate-binary-search-tree/
+
+    235. Lowest Common Ancestor of a Binary Search Tree
+                        https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+    236. Lowest Common Ancestor of a Binary Tree
+                        https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
