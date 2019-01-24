@@ -16,5 +16,9 @@ pdf 6,堆栈训练
   225    用队列实现堆栈        https://leetcode.com/problems/implement-stack-using-queues/description/
   20     判断输入括号是否合法   https://leetcode.com/problems/valid-parentheses/description/
 
+---------------------------
+ pdf 7,优先队列
 
+    239    滑动窗口最大值      https://leetcode-cn.com/problems/sliding-window-maximum/
+    703    数据流中的第K大元素  https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/
 
