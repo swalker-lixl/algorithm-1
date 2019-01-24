@@ -19,6 +19,17 @@ pdf 6,堆栈训练
 ---------------------------
  pdf 7,优先队列
 
-    239    滑动窗口最大值      https://leetcode-cn.com/problems/sliding-window-maximum/
+ *  239    滑动窗口最大值      https://leetcode-cn.com/problems/sliding-window-maximum/
     703    数据流中的第K大元素  https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/
-
+---------------------------
+ pdf 8,哈希表<HashMap TreeMap>
+ *  242     Valid Anagram     https://leetcode.com/problems/valid-anagram/  // 方法3有问题，具体再参详
+            有效的字母异位词    https://leetcode-cn.com/problems/valid-anagram/
+ *  1       Two Sum           https://leetcode.com/problems/two-sum/description/
+            两数之和           https://leetcode-cn.com/problems/two-sum/
+    15      3Sum              https://leetcode.com/problems/3sum/description/
+            三数之和           https://leetcode-cn.com/problems/3sum/
+ *  18      4Sum              https://leetcode.com/problems/4sum/
+            四数之和           https://leetcode-cn.com/problems/4sum/
+ *  49      Group Anagrams    https://leetcode.com/problems/group-anagrams/description/
+            字母异位词分组      https://leetcode-cn.com/problems/group-anagrams/description/
