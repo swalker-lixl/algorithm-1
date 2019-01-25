@@ -16,10 +16,11 @@ public class _242_IsAnagram {
 
 
   public static void main(String[] args) {
-    String s ="anagram", t = "nagaram";
+    String s ="a", t = "a";
     _242_IsAnagram isAnagram = new _242_IsAnagram();
     System.out.println(isAnagram.isAnagram(s,t));
   }
+
 
 
 //方法1；先排序 Arrays 的排序功能，再比对 n * log n
@@ -32,7 +33,45 @@ public boolean isAnagram(String s, String t) {
   return Arrays.equals(as, ts);
 }
 
-//方法2；分别对对应的元素计数，最后比较两个map是否相同 O（n）+ O (1)
+
+//方法2： (Hash Table)  O(n)  O(1)
+public boolean isAnagram(String s, String t) {
+    if (s.length() != t.length()) {
+        return false;
+    }
+    int[] counter = new int[26];
+    for (int i = 0; i < s.length(); i++) {
+        counter[s.charAt(i) - 'a']++;
+        counter[t.charAt(i) - 'a']--;
+    }
+    for (int count : counter) {
+        if (count != 0) {
+            return false;
+        }
+    }
+    return true;
+}
+
+//方法2的改进版本
+public boolean isAnagram(String s, String t) {
+    if (s.length() != t.length()) {
+        return false;
+    }
+    int[] table = new int[26];
+    for (int i = 0; i < s.length(); i++) {
+        table[s.charAt(i) - 'a']++;
+    }
+    for (int i = 0; i < t.length(); i++) {
+        table[t.charAt(i) - 'a']--;
+        if (table[t.charAt(i) - 'a'] < 0) {
+            return false;
+        }
+    }
+    return true;
+}
+
+/*
+//方法3；分别对对应的元素计数，最后比较两个map是否相同 O（n）+ O (1)
 Map<Character,Integer> sMap = new HashMap();
 Map<Character,Integer> tMap = new HashMap();
 
@@ -56,20 +95,25 @@ Map<Character,Integer> tMap = new HashMap();
       }
     }
     return sMap.equals(tMap);
-  }
+  }*/
 
-//方法3: 对以一个字符串的的元素存储，最后拿第二个map判断是否相同 O（n）+ O (n)
+//方法4: 对以一个字符串的的元素存储，最后拿第二个map判断是否相同 O（n）+ O (n)
+// 算法有问题，具体再参详
   Map<Integer,Character> charMap = new HashMap();
   public boolean isAnagram(String s, String t) {
     char[] sChars = s.toCharArray();
     char[] tChars = t.toCharArray();
     boolean isAnagram = false;
-    if (sChars.length == 0 && tChars.length == 0) return isAnagram;
-    if (sChars.length != tChars.length) return isAnagram;
-    for (int i = 0; i < sChars.length; i++) charMap.put(i, sChars[i]);
+    if ((sChars.length == 0) && ( tChars.length == 0)) return true;
+    if (sChars.length < 1 || tChars.length < 1 || sChars.length != tChars.length) {
+      return isAnagram;
+    }
+    for (int i = 0; i < sChars.length; i++) {
+      charMap.put(i, sChars[i]);
+    }
     for (int j = 0; j < tChars.length; j++) {
       if (charMap.containsValue(tChars[j])){
-        if (!charMap.get(j).equals(tChars[j])){ //// equals方法有问题，具体再参详
+        if (!charMap.get(j).equals(tChars[j])){
           isAnagram = true;
         }
       }else {
