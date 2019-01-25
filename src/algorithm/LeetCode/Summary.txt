@@ -81,4 +81,14 @@ pdf 6,堆栈训练
                        https://leetcode.com/problems/valid-anagram/#/description
     874. Walking Robot Simulation
                         https://leetcode.com/problems/walking-robot-simulation/description/
-
+---------------------------
+ pdf 13, DFS和BFS算法
+    102. Binary Tree Level Order Traversal
+    102. 二叉树的层次遍历
+                       https://leetcode.com/problems/binary-tree-level-order-traversal/
+    104. Maximum Depth of Binary Tree
+                       https://leetcode.com/problems/maximum-depth-of-binary-tree/
+    111. Minimum Depth of Binary Tree
+                       https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+    22. Generate Parentheses
+                        https://leetcode.com/problems/generate-parentheses/
