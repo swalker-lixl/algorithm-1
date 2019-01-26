@@ -129,4 +129,13 @@ pdf 6,堆栈训练
                              https://leetcode.com/problems/n-queens-ii/
 
     系统设计:search suggestion 搜索建议
+---------------------------
+ pdf 20, LRU Cache
+    146. LRU Cache
+                        https://leetcode.com/problems/lru-cache/#/
+ 加深阅读
+    中⽂文⻚页⾯面:
+    https://zh.wikipedia.org/wiki/快取⽂文件置換機制
+    英⽂文⻚页⾯面:
+    https://en.wikipedia.org/wiki/Cache_replacement_policies
 
