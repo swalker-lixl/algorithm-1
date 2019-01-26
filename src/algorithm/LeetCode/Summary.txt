@@ -102,4 +102,12 @@ pdf 6,堆栈训练
                         https://leetcode.com/problems/valid-sudoku/description/
     37. Sudoku Solver
                         https://leetcode.com/problems/sudoku-solver/#/description
+---------------------------
+ pdf 15, ⼆分查找(Binary Search)
+    69. Sqrt(x)
+                        https://leetcode.com/problems/sqrtx/
+    367. Valid Perfect Square
+                        https://leetcode.com/problems/valid-perfect-square/
+    参考杂志
+                        https://www.beyond3d.com/content/articles/8/
 
