@@ -117,3 +117,16 @@ pdf 6,堆栈训练
     212. Word Search II
                         https://leetcode.com/problems/word-search-ii/
     系统设计:search suggestion 搜索建议
+---------------------------
+ pdf 17, 位运算的运⽤用(Bitwise operations)
+    191. Number of 1 Bits
+                       https://leetcode.com/problems/number-of-1-bits/
+    231. Power of Two
+                       https://leetcode.com/problems/power-of-two/
+    338. Counting Bits
+                       https://leetcode.com/problems/counting-bits/description/
+    52. N-Queens II(剪枝中已做过)
+                             https://leetcode.com/problems/n-queens-ii/
+
+    系统设计:search suggestion 搜索建议
+
