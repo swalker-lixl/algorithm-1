@@ -110,4 +110,10 @@ pdf 6,堆栈训练
                         https://leetcode.com/problems/valid-perfect-square/
     参考杂志
                         https://www.beyond3d.com/content/articles/8/
-
+---------------------------
+ pdf 16, 字典树
+    208. Implement Trie (Prefix Tree)
+                        https://leetcode.com/problems/implement-trie-prefix-tree/#/description
+    212. Word Search II
+                        https://leetcode.com/problems/word-search-ii/
+    系统设计:search suggestion 搜索建议
