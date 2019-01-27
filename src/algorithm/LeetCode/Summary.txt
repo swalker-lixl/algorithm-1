@@ -130,6 +130,12 @@ pdf 6,堆栈训练
 
     系统设计:search suggestion 搜索建议
 ---------------------------
+ pdf 19, 并查集
+    200. Number of Islands
+                        https://leetcode.com/problems/number-of-islands/
+    547. Friend Circles
+                        https://leetcode.com/problems/friend-circles/
+---------------------------
  pdf 20, LRU Cache
     146. LRU Cache
                         https://leetcode.com/problems/lru-cache/#/
