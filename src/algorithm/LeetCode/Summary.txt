@@ -82,6 +82,32 @@ pdf 6,堆栈训练
     874. Walking Robot Simulation
                         https://leetcode.com/problems/walking-robot-simulation/description/
 ---------------------------
+ pdf 18, DP
+    70. Climbing Stairs
+                       https://leetcode.com/problems/climbing-stairs/description/
+    120. Triangle
+                       https://leetcode.com/problems/triangle/description/
+    152. Maximum Product Subarray
+                       https://leetcode.com/problems/maximum-product-subarray/description/
+    300. Longest Increasing Subsequence
+                       https://leetcode.com/problems/longest-increasing-subsequence/
+    322. Coin Change
+                       https://leetcode.com/problems/coin-change/
+    72. Edit Distance
+                       https://leetcode.com/problems/edit-distance/
+    121. Best Time to Buy and Sell Stock
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description
+    122. Best Time to Buy and Sell Stock II
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+    123. Best Time to Buy and Sell Stock III
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+    188. Best Time to Buy and Sell Stock IV
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+    309. Best Time to Buy and Sell Stock with Cooldown
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+    714. Best Time to Buy and Sell Stock with Transaction Fee
+                       https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+---------------------------
  pdf 13, DFS和BFS算法
     102. Binary Tree Level Order Traversal
     102. 二叉树的层次遍历
