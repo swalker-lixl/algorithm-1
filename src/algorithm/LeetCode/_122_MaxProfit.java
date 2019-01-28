@@ -7,6 +7,10 @@ package algorithm.LeetCode;
  * @date 2019/01/25
  */
 public class _122_MaxProfit {
+
+  //官方解法： https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/
+
+
 //自己写的逻辑过于复杂细致，贪心法需要先看一步，再看关联。不要 过早陷入细枝末节
  /* public int maxProfit(int[] prices) {
     int income = 0 ,sum = 0;
